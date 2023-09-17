@@ -1,6 +1,3 @@
-Here's the formatted README for your Sentiment Analysis Application:
-
-```markdown
 # Sentiment Analysis Application Guide
 
 Welcome to the Sentiment Analysis Application! This comprehensive guide will walk you through the step-by-step installation and setup process for each component of the application. The application consists of three main parts: the Sentiment Analysis Model, Backend, and Frontend. Follow the instructions in each section to get started and make the most of the application's features.
